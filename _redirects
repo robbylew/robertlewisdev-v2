@@ -1,0 +1,13 @@
+/rss https://robertlewis.dev/feed.xml 301
+/blog https://robertlewis.dev/posts 301
+
+/github https://github.com/robbylew 301
+/gh https://github.com/robbylew 301
+/twitter https://twitter.com/roberthedev 301
+/instagram https://instagram.com/robbylew 301
+/ig https://instagram.com/robbylew 301
+
+/admin/*  /404.html  401!
+/sitemap   /sitemap.xml   200
+
+

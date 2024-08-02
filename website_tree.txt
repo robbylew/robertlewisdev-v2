@@ -1,0 +1,97 @@
+.
+├── CC-BY-NC-SA-4.0
+├── _dist_redirects
+├── eslint.config.js
+├── _headers
+├── index.html
+├── LICENSE
+├── netlify.toml
+├── package.json
+├── pages
+│   ├── [...404].md
+│   ├── chat.md
+│   ├── hannah.md
+│   ├── index.md
+│   ├── posts
+│   │   ├── big-o.md
+│   │   ├── index.md
+│   │   ├── learn-php.md
+│   │   └── webstorm-commits-fix.md
+│   ├── projects.md
+│   └── resume.md
+├── pnpm-lock.yaml
+├── public
+│   ├── admin
+│   │   ├── config.yml
+│   │   └── index.html
+│   ├── android-chrome-192x192.png
+│   ├── android-chrome-512x512.png
+│   ├── apple-touch-icon.png
+│   ├── favicon-16x16.png
+│   ├── favicon-32x32.png
+│   ├── favicon.ico
+│   ├── hannah.png
+│   ├── Robert Lewis Resume.pdf
+│   ├── robots.txt
+│   └── site.webmanifest
+├── README.md
+├── _redirects
+├── scripts
+│   ├── img-compress-cli.ts
+│   ├── img-compress-staged.ts
+│   ├── img-compress.ts
+│   ├── rss.ts
+│   └── slugify.ts
+├── src
+│   ├── App.vue
+│   ├── components
+│   │   ├── AppLink.vue
+│   │   ├── ArtDots.vue
+│   │   ├── ArtPlum.vue
+│   │   ├── CalCom.vue
+│   │   ├── Footer.vue
+│   │   ├── GitHubLink.vue
+│   │   ├── icons
+│   │   │   ├── RobertLewis.vue
+│   │   │   └── Slidev.vue
+│   │   ├── ListPosts.vue
+│   │   ├── ListProjects.vue
+│   │   ├── LogoStroke.vue
+│   │   ├── Logo.vue
+│   │   ├── NavBar.vue
+│   │   ├── shiki
+│   │   │   ├── ShikiMagicMoveDemoCode.ts
+│   │   │   ├── ShikiMagicMoveDemo.vue
+│   │   │   └── ShikiMagicMoveMatch.vue
+│   │   ├── slides
+│   │   │   ├── DarkToggleButton.vue
+│   │   │   ├── MarkerCore.vue
+│   │   │   ├── MarkerPattern.vue
+│   │   │   ├── MarkerTips.vue
+│   │   │   ├── Marker.vue
+│   │   │   └── VueUseFn.vue
+│   │   ├── SubNav.vue
+│   │   ├── TextCopy.vue
+│   │   ├── ToggleTheme.vue
+│   │   ├── Tweet.vue
+│   │   ├── WrapperDemo.vue
+│   │   ├── WrapperPost.vue
+│   │   └── YouTubeEmbed.vue
+│   ├── data
+│   │   └── sponsors-circles.json
+│   ├── logics
+│   │   └── index.ts
+│   ├── main.ts
+│   ├── store
+│   │   └── shiki.ts
+│   ├── styles
+│   │   ├── main.css
+│   │   ├── markdown.css
+│   │   └── prose.css
+│   └── types.ts
+├── tsconfig.json
+├── unocss.config.ts
+├── vite.config.ts
+└── website_tree.txt
+
+15 directories, 81 files
