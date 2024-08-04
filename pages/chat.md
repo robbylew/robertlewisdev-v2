@@ -5,7 +5,7 @@ display: Let's Chat!
 art: plum
 ---
 
-If you are an employer or someone interested in discussing projects or collaboration opportunities, please feel free to reach out to me via email.
+If you are interested in discussing projects or collaboration opportunities, please feel free to reach out to me via email.
 
 ---
 
