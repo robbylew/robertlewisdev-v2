@@ -2,7 +2,7 @@
 title: Hannah the Australian Shepherd
 description: My beautiful Australian Shepherd, Hannah.
 display: Hannah - The Australian Shepherd
-art: random
+art: none
 ---
 
 ![Hannah](../public/hannah.png)

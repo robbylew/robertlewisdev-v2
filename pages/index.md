@@ -2,7 +2,7 @@
 title: Robert Lewis
 display: Robert Lewis
 description: A software engineer passionate about transforming data into insights and building efficient data-driven systems.
-art: random
+art: plum
 ---
 
 Hey, I am Robert Lewis, a passionate software engineer.
