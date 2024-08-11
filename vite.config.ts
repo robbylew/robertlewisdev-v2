@@ -45,27 +45,6 @@ export default defineConfig({
     ],
   },
   plugins: [
-    VitePluginRadar({
-      enableDev: false,
-      // Google Analytics (multiple tags can be set with an array)
-      analytics: [
-        {
-          id: 'G-PEXC0PQ215',
-          config: {
-            cookie_flags: 'SameSite=None;Secure',
-            send_page_view: true,
-            allow_google_signals: true,
-            allow_ad_personalization_signals: true,
-          },
-          consentDefaults: {
-            analytics_storage: 'granted',
-            ad_storage: 'denied',
-            wait_for_update: 500,
-          },
-        },
-      ],
-    }),
-
     UnoCSS(),
 
     VueRouter({
