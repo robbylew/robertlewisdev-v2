@@ -7,12 +7,11 @@ art: plum
 
 Hey, I am Robert Lewis, a passionate software engineer.
 
-Beginning my MSCS at Georgia Tech in August 2024.
-Currently looking for exciting opportunities in the tech world.<br>
+I am currently seeking exciting opportunities in the tech world.
 
-I have a B.S. in Statistics and Data Science from UCLA, where I developed a strong foundation in data analytics and machine learning. I am currently in pursuit of my CompTIA A+, Network+, and Security+ certificates to prove both my devotion and knowledge in the field of computer science and cyber technology.
+I hold a B.S. in Statistics and Data Science from UCLA, where I built a strong foundation in data analytics and machine learning. I am now a student at Georgia Tech, pursuing an M.S. in Computer Science as part of their OMSCS program. Additionally, I am working towards earning my CompTIA Network+ and Security+ certifications to demonstrate my dedication and expertise in computer science and cybersecurity.
 
-Driven by a passion for exploring innovative projects and continuously learning, I aim to leverage my skills to drive impactful data-driven solutions.
+Driven by a passion for innovative projects and continuous learning, I strive to leverage my skills to deliver impactful data-driven solutions.
 
 Outside of my professional life, I enjoy traveling and spending quality time with my Australian Shepherd, [Hannah](/hannah).
 
