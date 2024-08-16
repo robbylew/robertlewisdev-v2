@@ -24,7 +24,6 @@ Find me on
   <a href="https://www.tiktok.com/@robbyleww" target="_blank"><span op75 i-simple-icons-tiktok /> TikTok</a>
   <a href="https://www.twitch.tv/robbywho" target="_blank"><span op75 i-simple-icons-twitch /> Twitch</a>
   <a href="https://www.youtube.com/@robbylew" target="_blank"><span op75 i-simple-icons-youtube /> Youtube </a>
-
 </p>
 
 Or mail me at <a href="mailto:contact@robertlewis.dev"><span font-mono>contact<span i-carbon-at/>robertlewis.dev</span></a>
