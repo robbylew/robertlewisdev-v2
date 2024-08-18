@@ -7,12 +7,7 @@ art: plum
 
 Hey, I am Robert Lewis, a passionate software engineer.
 
-Beginning my MSCS at Georgia Tech in August 2024.
-Currently looking for exciting opportunities in the tech world.<br>
-
-I have a B.S. in Statistics and Data Science from UCLA, where I developed a strong foundation in data analytics and machine learning. I am currently in pursuit of my CompTIA A+, Network+, and Security+ certificates to prove both my devotion and knowledge in the field of computer science and cyber technology.
-
-Driven by a passion for exploring innovative projects and continuously learning, I aim to leverage my skills to drive impactful data-driven solutions.
+I hold a B.S. in Statistics and Data Science from UCLA, where I built a strong foundation in data analytics and machine learning. A current student at Georgia Tech, pursuing an M.S. in Computer Science.
 
 Outside of my professional life, I enjoy traveling and spending quality time with my Australian Shepherd, [Hannah](/hannah).
 
@@ -24,9 +19,11 @@ Find me on
 
 <p flex="~ gap-2 wrap" class="mt--2!">
   <a href="https://github.com/robbylew" target="_blank"><span op75 i-simple-icons-github /> GitHub</a>
-  <a href="https://x.com/roberthedev"><span op75 i-ri-twitter-x-fill /> Twitter</a>
   <a href="https://linkedin.com/in/robbylewis/" target="_blank"><span op75 i-simple-icons-linkedin /> LinkedIn</a>
-  <a href="https://instagram.com/robbylew/" target="_blank"><span op75 i-simple-icons-instagram /> Instagram</a>
+  <a href="https://x.com/roberthedev"><span op75 i-ri-twitter-x-fill /> Twitter</a>
+  <a href="https://www.tiktok.com/@robbyleww" target="_blank"><span op75 i-simple-icons-tiktok /> TikTok</a>
+  <a href="https://www.twitch.tv/robbywho" target="_blank"><span op75 i-simple-icons-twitch /> Twitch</a>
+  <a href="https://www.youtube.com/@robbylew" target="_blank"><span op75 i-simple-icons-youtube /> Youtube </a>
 </p>
 
 Or mail me at <a href="mailto:contact@robertlewis.dev"><span font-mono>contact<span i-carbon-at/>robertlewis.dev</span></a>
