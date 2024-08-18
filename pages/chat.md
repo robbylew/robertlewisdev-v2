@@ -16,7 +16,6 @@ Find me on
   <a href="https://linkedin.com/in/robbylewis/" target="_blank"><span op75 i-simple-icons-linkedin /> LinkedIn</a>
   <a href="https://x.com/roberthedev"><span op75 i-ri-twitter-x-fill /> Twitter</a>
   <a href="https://www.tiktok.com/@robbyleww" target="_blank"><span op75 i-simple-icons-tiktok /> TikTok</a>
-  <a href="https://www.twitch.tv/robbywho" target="_blank"><span op75 i-simple-icons-twitch /> Twitch</a>
   <a href="https://www.youtube.com/@robbylew" target="_blank"><span op75 i-simple-icons-youtube /> Youtube </a>
 </p>
 
