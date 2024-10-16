@@ -37,7 +37,6 @@ projects:
       desc: "An XGBoost model for house price prediction"
       icon: "i-simple-icons-homeassistant"
 
-
 ---
 
 <!-- @layout-full-width -->

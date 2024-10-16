@@ -2,11 +2,11 @@
 function toTop() {
   window.scrollTo({
     top: 0,
-    behavior: "smooth",
-  });
+    behavior: 'smooth',
+  })
 }
 
-const { y: scroll } = useWindowScroll();
+const { y: scroll } = useWindowScroll()
 </script>
 
 <template>
@@ -46,7 +46,7 @@ const { y: scroll } = useWindowScroll();
         </RouterLink>
         <RouterLink to="/chat" title="Let's Chat">
           <span class="lt-md:hidden">Contact</span>
-          <div i-ri-chat-1-line md:hidden/>
+          <div i-ri-chat-1-line md:hidden />
         </RouterLink>
         <a
           href="https://x.com/roberthedev"
@@ -63,12 +63,6 @@ const { y: scroll } = useWindowScroll();
           class="lt-md:hidden"
         >
           <div i-uil-github-alt />
-        </a>
-        <a href="/feed.xml" target="_blank" title="RSS" class="lt-md:hidden">
-          <div
-            i-la-rss-square
-            style="font-size: 1.25rem; margin: 0 -0.125rem"
-          />
         </a>
         <ToggleTheme />
       </div>
