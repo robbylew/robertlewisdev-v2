@@ -29,6 +29,9 @@ importers:
       peer:
         specifier: ^1.0.2
         version: 1.0.2
+      rimraf:
+        specifier: ^5.0.10
+        version: 5.0.10
       shiki-magic-move:
         specifier: ^0.4.0
         version: 0.4.3(shiki@1.11.0)(vue@3.4.33(typescript@5.5.3))
@@ -153,9 +156,6 @@ importers:
       prompts:
         specifier: ^2.4.2
         version: 2.4.2
-      rimraf:
-        specifier: ^5.0.10
-        version: 5.0.10
       sharp:
         specifier: 0.32.6
         version: 0.32.6
@@ -2267,8 +2267,8 @@ packages:
       '@nuxt/kit':
         optional: true
 
-  foreground-child@3.1.1:
-    resolution: {integrity: sha512-TMKDUnIte6bfb5nWv7V/caI169OHgvwjb7V4WkeUvbQQdjr5rWKqHFiKWb/fcOwB+CzBT+qbWjvj+DVwRskpIg==}
+  foreground-child@3.3.0:
+    resolution: {integrity: sha512-Ld2g8rrAyMYFXBhEqMz8ZAHBi4J4uS1i/CxGMDnjyFWddMXLVcDp051DZfu+t7+ab7Wv6SMqpWmyFIj5UbfFvg==}
     engines: {node: '>=14'}
 
   form-data@4.0.0:
@@ -2977,8 +2977,8 @@ packages:
   p5i@0.5.0:
     resolution: {integrity: sha512-ahLCSoab5pD6fCpqxLcXhDPyDIrJHQpeGDeC4RDouflWJuXi0LVsGjbwS/ODLkpXRfLTHzV6C9t32kz3iMuPBA==}
 
-  package-json-from-dist@1.0.0:
-    resolution: {integrity: sha512-dATvCeZN/8wQsGywez1mzHtTlP22H8OEfPrVMLNr4/eGa+ijtLn/6M5f0dY8UKNrC2O9UCU6SSoG3qRKnt7STw==}
+  package-json-from-dist@1.0.1:
+    resolution: {integrity: sha512-UEZIS3/by4OC8vL3P2dTXRETpebLI2NiI5vIrjaD/5UtrkFX/tNbwjTSRAGC/+7CAo2pIcBaRgWmcBBHcsaCIw==}
 
   param-case@3.0.4:
     resolution: {integrity: sha512-RXlj7zCYokReqWpOPH9oYivUzLYZ5vAPIfEmCTNViosC78F8F0H9y7T7gG2M39ymgutxF5gcFEsyZQSph9Bp3A==}
@@ -6288,7 +6288,7 @@ snapshots:
       vue: 3.4.33(typescript@5.5.3)
       vue-resize: 2.0.0-alpha.1(vue@3.4.33(typescript@5.5.3))
 
-  foreground-child@3.1.1:
+  foreground-child@3.3.0:
     dependencies:
       cross-spawn: 7.0.3
       signal-exit: 4.1.0
@@ -6354,11 +6354,11 @@ snapshots:
 
   glob@10.4.5:
     dependencies:
-      foreground-child: 3.1.1
+      foreground-child: 3.3.0
       jackspeak: 3.4.3
       minimatch: 9.0.5
       minipass: 7.1.2
-      package-json-from-dist: 1.0.0
+      package-json-from-dist: 1.0.1
       path-scurry: 1.11.1
 
   globals@11.12.0: {}
@@ -6967,7 +6967,7 @@ snapshots:
       '@types/p5': 1.7.6
       p5: 1.9.3
 
-  package-json-from-dist@1.0.0: {}
+  package-json-from-dist@1.0.1: {}
 
   param-case@3.0.4:
     dependencies:
