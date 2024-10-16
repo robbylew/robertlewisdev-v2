@@ -26,6 +26,9 @@ importers:
       nprogress:
         specifier: ^0.2.0
         version: 0.2.0
+      peer:
+        specifier: ^1.0.2
+        version: 1.0.2
       shiki-magic-move:
         specifier: ^0.4.0
         version: 0.4.3(shiki@1.11.0)(vue@3.4.33(typescript@5.5.3))
@@ -138,9 +141,6 @@ importers:
       p5i:
         specifier: ^0.5.0
         version: 0.5.0
-      peer:
-        specifier: ^1.0.2
-        version: 1.0.2
       picocolors:
         specifier: ^1.0.0
         version: 1.0.1
