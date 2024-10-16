@@ -6,6 +6,10 @@ wrapperClass: "text-center"
 art: none
 projects:
   Websites:
+    - name: "Hacker News Clone"
+      link: "https://github.com/robbylew/hacker-news-clone"
+      desc: "React and GraphQL-based news site clone"
+      icon: "i-simple-icons-reactjs"
     - name: "Vue.js Portfolio"
       link: "https://github.com/robbylew/robertlewisdev-v2"
       desc: "My current portfolio's repo"
