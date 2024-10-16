@@ -38,6 +38,21 @@ importers:
       shiki-magic-move:
         specifier: ^0.4.0
         version: 0.4.3(shiki@1.11.0)(vue@3.4.33(typescript@5.5.3))
+      vite:
+        specifier: ^5.2.11
+        version: 5.3.4(terser@5.31.3)
+      vite-plugin-inspect:
+        specifier: ^0.8.4
+        version: 0.8.5(rollup@4.19.0)(vite@5.3.4(terser@5.31.3))
+      vite-plugin-radar:
+        specifier: ^0.9.6
+        version: 0.9.6(vite@5.3.4(terser@5.31.3))
+      vite-ssg:
+        specifier: ^0.23.8
+        version: 0.23.8(vite@5.3.4(terser@5.31.3))(vue-router@4.2.5(vue@3.4.33(typescript@5.5.3)))(vue@3.4.33(typescript@5.5.3))
+      vite-svg-loader:
+        specifier: ^5.1.0
+        version: 5.1.0(vue@3.4.33(typescript@5.5.3))
       vue:
         specifier: ^3.4.27
         version: 3.4.33(typescript@5.5.3)
@@ -186,21 +201,6 @@ importers:
       unplugin-vue-router:
         specifier: ^0.8.6
         version: 0.8.8(rollup@4.19.0)(vue-router@4.2.5(vue@3.4.33(typescript@5.5.3)))(vue@3.4.33(typescript@5.5.3))
-      vite:
-        specifier: ^5.2.11
-        version: 5.3.4(terser@5.31.3)
-      vite-plugin-inspect:
-        specifier: ^0.8.4
-        version: 0.8.5(rollup@4.19.0)(vite@5.3.4(terser@5.31.3))
-      vite-plugin-radar:
-        specifier: ^0.9.6
-        version: 0.9.6(vite@5.3.4(terser@5.31.3))
-      vite-ssg:
-        specifier: ^0.23.8
-        version: 0.23.8(vite@5.3.4(terser@5.31.3))(vue-router@4.2.5(vue@3.4.33(typescript@5.5.3)))(vue@3.4.33(typescript@5.5.3))
-      vite-svg-loader:
-        specifier: ^5.1.0
-        version: 5.1.0(vue@3.4.33(typescript@5.5.3))
 
 packages:
 
