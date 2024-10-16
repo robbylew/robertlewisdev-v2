@@ -14,7 +14,6 @@
     "@vueuse/core": "^10.9.0",
     "cross-env": "^7.0.3",
     "dayjs": "^1.11.11",
-    "feed": "^4.2.2",
     "floating-vue": "2.0.0-beta.24",
     "matter-attractors": "^0.1.6",
     "matter-js": "^0.19.0",
@@ -22,7 +21,6 @@
     "peer": "^1.0.2",
     "rimraf": "^5.0.10",
     "shiki-magic-move": "^0.4.0",
-    "simple-git-hooks": "^2.11.1",
     "vue": "^3.4.27",
     "vue-router": "4.2.5",
     "vue-router-better-scroller": "^0.0.0"
@@ -77,7 +75,7 @@
     "vite": "^5.2.11",
     "vite-plugin-inspect": "^0.8.4",
     "vite-plugin-radar": "^0.9.6",
-    "vite-ssg": "^0.23.7",
+    "vite-ssg": "^0.23.8",
     "vite-svg-loader": "^5.1.0"
   },
   "simple-git-hooks": {
