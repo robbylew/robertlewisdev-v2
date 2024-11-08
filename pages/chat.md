@@ -13,7 +13,7 @@ Find me on
 
 <p flex="~ gap-2 wrap" class="mt--2!">
   <a href="https://github.com/robbylew" target="_blank"><span op75 i-simple-icons-github /> GitHub</a>
-  <a href="https://linkedin.com/in/robbylewis/" target="_blank"><span op75 i-simple-icons-linkedin /> LinkedIn</a>
+  <a href="https://linkedin.com/in/robbylew" target="_blank"><span op75 i-simple-icons-linkedin /> LinkedIn</a>
   <a href="https://x.com/roberthedev"><span op75 i-ri-twitter-x-fill /> Twitter</a>
 </p>
 
