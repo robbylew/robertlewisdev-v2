@@ -5,11 +5,11 @@ description: A software engineer passionate about transforming data into insight
 art: plum
 ---
 
-Hey, I am Robert Lewis, a passionate software engineer.
+Hey there, I’m Robert Lewis—a software engineer with a strong foundation in data analytics and machine learning. I earned a B.S. in Statistics and Data Science from UCLA and am currently pursuing an M.S. in Computer Science at Georgia Tech.
 
-I hold a B.S. in Statistics and Data Science from UCLA, where I built a strong foundation in data analytics and machine learning. A current student at Georgia Tech, pursuing an M.S. in Computer Science.
+I’m passionate about solving complex problems in data engineering, machine learning, and software development. Beyond my professional pursuits, I love traveling and spending time with my Australian Shepherd, [Hannah](/hannah).
 
-Outside of my professional life, I enjoy traveling and spending quality time with my Australian Shepherd, [Hannah](/hannah).
+Thanks for stopping by! Feel free to explore my work or get in touch.
 
 <div flex-auto />
 
