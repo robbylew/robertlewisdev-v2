@@ -5,7 +5,7 @@ description: A software engineer passionate about transforming data into insight
 art: plum
 ---
 
-Hey there, I’m Robert Lewis—a software engineer with a strong foundation in data analytics and machine learning. I earned a B.S. in Statistics and Data Science from UCLA and am currently pursuing an M.S. in Computer Science at Georgia Tech.
+**Hey there, I’m Robert Lewis**—*a Dutch-born, American-raised* software engineer with a strong foundation in data analytics and machine learning. I earned a B.S. in Statistics and Data Science from UCLA and am currently pursuing an M.S. in Computer Science at Georgia Tech.
 
 I’m passionate about solving complex problems in data engineering, machine learning, and software development. Beyond my professional pursuits, I love traveling and spending time with my Australian Shepherd, [Hannah](/hannah).
 
@@ -24,5 +24,6 @@ Find me on
 </p>
 
 Or mail me at <a href="mailto:contact@robertlewis.dev"><span font-mono>contact<span i-carbon-at/>robertlewis.dev</span></a>
+
 
 ---
