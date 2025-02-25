@@ -7,7 +7,7 @@ art: plum
 
 ## Hey there, I'm Robert! 👋 
 
-I'm a Dutch-born, American-raised data nerd currently working my way through Georgia Tech's CS Master's program. My journey started with a Statistics & Data Science degree from UCLA, and I've been hooked on all things data ever since.
+I'm a Dutch-born, American-raised data nerd currently working my way through Georgia Tech's CS Master's program. My journey started with a Statistics & Data Science degree from UCLA, and I've been hooked on all things data ever since. [View my resume](/resume) for the full story.
 
 By day, I build data pipelines that don't fall over and ETL processes that actually deliver. I'm fascinated by the challenges of wrangling messy data into something useful—whether that's setting up real-time streaming systems or making sure databases talk to each other without throwing tantrums.
 
@@ -27,4 +27,4 @@ Check out some of my [projects](/projects) if you're curious about what I've bee
   <a href="https://x.com/roberthedev"><span op75 i-ri-twitter-x-fill /> Twitter</a>
 </p>
 
-Contact me at <a href="mailto:contact@robertlewis.dev"><span font-mono>contact<span i-carbon-at/>robertlewis.dev</span></a> 
+Contact me at <a href="mailto:contact@robertlewis.dev"><span font-mono>contact<span i-carbon-at/>robertlewis.dev</span></a>
