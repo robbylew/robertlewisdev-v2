@@ -5,19 +5,21 @@ description: Data Engineer specialized in building scalable data pipelines, robu
 art: plum
 ---
 
-**Hello, I’m Robert Lewis**—a Dutch-born, American-raised Data Engineer dedicated to constructing and optimizing large-scale data infrastructures. With a B.S. in Statistics and Data Science from UCLA and ongoing M.S. studies in Computer Science at Georgia Tech, I blend analytical expertise with hands-on engineering experience.
+## Hey there, I'm Robert! 👋 
 
-I design and implement efficient data pipelines and develop robust ETL workflows using cutting-edge big data tools and cloud platforms. Whether architecting data warehouses, refining real-time data streaming processes, or ensuring data integrity across systems, I excel in turning raw data into actionable insights that drive business growth.
+I'm a Dutch-born, American-raised data nerd currently working my way through Georgia Tech's CS Master's program. My journey started with a Statistics & Data Science degree from UCLA, and I've been hooked on all things data ever since.
 
-When I’m not engineering data solutions, I love traveling and embarking on adventures with my Australian Shepherd, [Hannah](/hannah).
+By day, I build data pipelines that don't fall over and ETL processes that actually deliver. I'm fascinated by the challenges of wrangling messy data into something useful—whether that's setting up real-time streaming systems or making sure databases talk to each other without throwing tantrums.
 
-Thanks for stopping by—feel free to explore my [projects](/projects) or [get in touch](/chat) to discuss how I can help transform your data challenges into strategic opportunities!
+When I'm not knee-deep in code or drowning in grad school assignments, I'm probably exploring a new hiking trail or playing fetch with my Australian Shepherd, [Hannah](/hannah) (she's my world).
+
+Check out some of my [projects](/projects) if you're curious about what I've been up to lately. Fair warning though—the cool stuff from my GT coursework is behind academic guidelines, but I'm happy to chat about them!
 
 <div flex-auto />
 
 ---
 
-**Connect with Me**
+**Let's Connect**
 
 <p flex="~ gap-2 wrap" class="mt--2!">
   <a href="https://github.com/robbylew" target="_blank"><span op75 i-simple-icons-github /> GitHub</a>
@@ -25,4 +27,4 @@ Thanks for stopping by—feel free to explore my [projects](/projects) or [get i
   <a href="https://x.com/roberthedev"><span op75 i-ri-twitter-x-fill /> Twitter</a>
 </p>
 
-Or email me at <a href="mailto:contact@robertlewis.dev"><span font-mono>contact<span i-carbon-at/>robertlewis.dev</span></a>
+Contact me at <a href="mailto:contact@robertlewis.dev"><span font-mono>contact<span i-carbon-at/>robertlewis.dev</span></a> 

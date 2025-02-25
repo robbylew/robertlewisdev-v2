@@ -7,15 +7,15 @@ art: none
 projects:
   Data Engineering:
     - name: "Twitter Sentiment Dashboard"
-      link: "Private Repo – Available upon request"
+      link: "/private-projects"
       desc: "Real-time Twitter sentiment analysis with BERT and Docker."
       icon: "i-simple-icons-docker"
     - name: "LLM-Driven Document Summarization"
-      link: "Private Repo – Available upon request"
+      link: "/private-projects"
       desc: "Scalable document summarization using LLMs and AWS Fargate."
-      icon: "simple-icons-amazonwebservices"
+      icon: "i-simple-icons-amazonaws"
     - name: "End-to-End MLOps Pipeline"
-      link: "Private Repo – Available upon request"
+      link: "/private-projects"
       desc: "Kubeflow pipeline for image classification with Terraform GPU clusters."
       icon: "i-simple-icons-kubernetes"
   Data Science:
@@ -34,4 +34,5 @@ projects:
       icon: "i-simple-icons-flutter"
 ---
 
+<!-- @layout-full-width -->
 <ListProjects :projects="frontmatter.projects" />

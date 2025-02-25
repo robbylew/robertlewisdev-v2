@@ -5,17 +5,15 @@ display: Hannah - The Australian Shepherd
 art: none
 ---
 
-![Hannah](../public/hannah.png)
-
----
-
-Find me on
-
-<p flex="~ gap-2 wrap" class="mt--2!">
-  <a href="https://github.com/robbylew" target="_blank"><span op75 i-simple-icons-github /> GitHub</a>
-  <a href="https://linkedin.com/in/robbylew" target="_blank"><span op75 i-simple-icons-linkedin /> LinkedIn</a>
-  <a href="https://x.com/roberthedev"><span op75 i-ri-twitter-x-fill /> Twitter</a>
-</p>
-Or mail me at <a href="mailto:contact@robertlewis.dev"><span font-mono>contact<span i-carbon-at/>robertlewis.dev</span></a>
-
----
+<!-- @layout-full-width -->
+<div class="flex flex-col items-center max-w-2xl mx-auto mt-8">
+  <div class="w-full md:w-1/2">
+    <img src="../public/hannah.png" alt="Hannah the Australian Shepherd" class="rounded-lg shadow-md w-full" />
+  </div>
+  
+  <div class="mt-6 text-center">
+    <a href="/" class="inline-block px-4 py-2 bg-gray-100 dark:bg-gray-800 rounded-lg hover:bg-gray-200 dark:hover:bg-gray-700 transition">
+      <span i-carbon-arrow-left class="mr-1" /> Back to Home
+    </a>
+  </div>
+</div>

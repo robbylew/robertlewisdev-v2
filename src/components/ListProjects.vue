@@ -11,7 +11,7 @@ function slug(name: string) {
 <template>
   <div class="max-w-300 mx-auto">
     <p text-center mt--6 mb5 op50 text-lg italic>
-      Projects that I created or maintaining.
+      A showcase of my Data Engineering, MLOps, and Data Science projects.
     </p>
     <div
       v-for="key, cidx in Object.keys(projects)" :key="key" slide-enter
@@ -36,7 +36,7 @@ function slug(name: string) {
           :key="idx"
           class="item relative flex items-center"
           :href="item.link"
-          target="_blank"
+          :target="item.link.startsWith('http') ? '_blank' : undefined"
           :title="item.name"
         >
           <div v-if="item.icon" class="pt-2 pr-5">
