@@ -1,44 +1,37 @@
 ---
 title: Projects - Robert Lewis
 display: Projects
-description:  Projects that I created, maintaining, or commit to.
+description: A showcase of my Data Engineering, MLOps, and Data Science projects.
 wrapperClass: "text-center"
 art: none
 projects:
-  Websites:
-    - name: "Hacker News Clone"
-      link: "https://github.com/robbylew/hacker-news-clone"
-      desc: "React and GraphQL-based news site clone"
-      icon: "i-simple-icons-react"
-    - name: "Vue.js Portfolio"
-      link: "https://github.com/robbylew/robertlewisdev-v2"
-      desc: "My current portfolio's repo"
-      icon: "i-simple-icons-vuedotjs"
-    - name: "Next.js Portfolio"
-      link: "https://github.com/robbylew/robertlewisdev-v1"
-      desc: "My first full-stack portfolio's repo"
-      icon: "i-simple-icons-nextdotjs"
-  Open Source Contributions:
-    - name: "Google Flutter"
-      link: "https://github.com/flutter/flutter"
-      desc: "Contributed to the Google Flutter open source project"
-      icon: "i-simple-icons-flutter"
-  Kaggle Projects:
-    - name: "Simple Neural Network for MNIST"
-      link: "https://www.kaggle.com/code/robbylew/my-first-kaggle-notebook-simple-cnn-for-mnist-dig"
-      desc: "Simple Neural Network for MNIST"
-      icon: "i-material-symbols-neurology"
+  Data Engineering:
+    - name: "Twitter Sentiment Dashboard"
+      link: "Private Repo – Available upon request"
+      desc: "Real-time Twitter sentiment analysis with BERT and Docker."
+      icon: "i-simple-icons-docker"
+    - name: "LLM-Driven Document Summarization"
+      link: "Private Repo – Available upon request"
+      desc: "Scalable document summarization using LLMs and AWS Fargate."
+      icon: "simple-icons-amazonwebservices"
+    - name: "End-to-End MLOps Pipeline"
+      link: "Private Repo – Available upon request"
+      desc: "Kubeflow pipeline for image classification with Terraform GPU clusters."
+      icon: "i-simple-icons-kubernetes"
+  Data Science:
     - name: "San Francisco Crime Classification"
       link: "https://www.kaggle.com/code/robbylew/predicting-crime-categories-using-random-forest"
-      desc: "SF crime categories using a RFC"
+      desc: "SF crime classification with a Random Forest model."
       icon: "i-material-symbols-apartment"
-    - name: "House Price Prediction using XGBoost"
+    - name: "House Price Prediction with XGBoost"
       link: "https://www.kaggle.com/code/robbylew/house-price-predictions-xgboost"
-      desc: "An XGBoost model for house price prediction"
+      desc: "House price prediction using XGBoost."
       icon: "i-simple-icons-homeassistant"
-
+  OpenSource:
+    - name: "Google Flutter"
+      link: "https://github.com/flutter/flutter"
+      desc: "Contributed to the Google Flutter project."
+      icon: "i-simple-icons-flutter"
 ---
-
-<!-- @layout-full-width -->
 
 <ListProjects :projects="frontmatter.projects" />
