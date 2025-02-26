@@ -8,15 +8,15 @@ projects:
   Data Engineering:
     - name: "Twitter Sentiment Dashboard"
       link: "/private-projects"
-      desc: "Real-time Twitter sentiment analysis with BERT and Docker."
+      desc: "Real-time Twitter sentiment analysis with BERT and Docker. (Private Repo)"
       icon: "i-simple-icons-docker"
     - name: "LLM-Driven Document Summarization"
       link: "/private-projects"
-      desc: "Scalable document summarization using LLMs and AWS Fargate."
+      desc: "Scalable document summarization using LLMs and AWS Fargate. (Private Repo)"
       icon: "i-simple-icons-amazonaws"
     - name: "End-to-End MLOps Pipeline"
       link: "/private-projects"
-      desc: "Kubeflow pipeline for image classification with Terraform GPU clusters."
+      desc: "Kubeflow pipeline for image classification with Terraform GPU clusters. (Private Repo)"
       icon: "i-simple-icons-kubernetes"
   Data Science:
     - name: "San Francisco Crime Classification"

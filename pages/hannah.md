@@ -6,6 +6,8 @@ art: none
 ---
 
 <!-- @layout-full-width -->
+# Hannah my Australian Shepherd
+
 <div class="flex flex-col items-center max-w-2xl mx-auto mt-8">
   <div class="w-full md:w-1/2">
     <img src="../public/hannah.png" alt="Hannah the Australian Shepherd" class="rounded-lg shadow-md w-full" />
