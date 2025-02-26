@@ -27,7 +27,20 @@ projects:
       link: "https://www.kaggle.com/code/robbylew/house-price-predictions-xgboost"
       desc: "House price prediction using XGBoost."
       icon: "i-simple-icons-homeassistant"
-  OpenSource:
+  Web Development:
+    - name: "Modern Portfolio Site"
+      link: "https://github.com/robbylew/robertlewisdev-v2"
+      desc: "This website, built with Vue.js, TypeScript, and UnoCSS."
+      icon: "i-simple-icons-vuedotjs"
+    - name: "Previous Portfolio Site"
+      link: "https://github.com/robbylew/robertlewisdev-v1"
+      desc: "Previous portfolio built with Next.js, TypeScript, and Tailwind CSS."
+      icon: "i-simple-icons-nextdotjs"
+    - name: "Hacker News Clone"
+      link: "https://github.com/robbylew/hacker-news-clone"
+      desc: "Open-sourced Hacker News clone built with React."
+      icon: "i-simple-icons-react"
+  Open Source:
     - name: "Google Flutter"
       link: "https://github.com/flutter/flutter"
       desc: "Contributed to the Google Flutter project."
