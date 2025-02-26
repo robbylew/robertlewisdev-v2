@@ -45,20 +45,27 @@ const { y: scroll } = useWindowScroll()
           <div i-ri-code-line md:hidden />
         </RouterLink>
         <a
-          href="https://x.com/roberthedev"
-          target="_blank"
-          title="Twitter"
-          class="lt-md:hidden"
-        >
-          <div i-ri-twitter-x-fill />
-        </a>
-        <a
           href="https://github.com/robbylew"
           target="_blank"
           title="GitHub"
           class="lt-md:hidden"
         >
           <div i-uil-github-alt />
+        </a>
+        <a
+          href="https://www.linkedin.com/in/robbylew/"
+          target="_blank"
+          title="LinkedIn"
+          class="lt-md:hidden"
+        >
+<div i-ri-linkedin-line />        </a>
+        <a
+          href="https://x.com/roberthedev"
+          target="_blank"
+          title="Twitter"
+          class="lt-md:hidden"
+        >
+          <div i-ri-twitter-x-fill />
         </a>
         <ToggleTheme />
       </div>
