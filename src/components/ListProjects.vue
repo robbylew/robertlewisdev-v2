@@ -11,7 +11,7 @@ function slug(name: string) {
 <template>
   <div class="max-w-300 mx-auto">
     <p text-center mt--6 mb5 op50 text-lg italic>
-      A showcase of my Data Engineering, MLOps, and Data Science projects.
+  A collection of my projects including open source contributions.
     </p>
     <div
       v-for="key, cidx in Object.keys(projects)" :key="key" slide-enter
