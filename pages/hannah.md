@@ -6,11 +6,31 @@ art: none
 ---
 
 <!-- @layout-full-width -->
-# Hannah my Australian Shepherd
-
-<div class="flex flex-col items-center max-w-2xl mx-auto mt-8">
-  <div class="w-full md:w-1/2">
-    <img src="../public/hannah.png" alt="Hannah the Australian Shepherd" class="rounded-lg shadow-md w-full" />
+<div class="max-w-3xl mx-auto px-4 mt-6 mb-8">
+  <h1 class="text-2xl font-bold text-center mb-6">Meet Hannah</h1>
+  
+  <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
+    <div class="aspect-square overflow-hidden rounded-lg shadow-md hover:shadow-lg transition-all">
+      <img 
+        src="/hannah1.jpeg" 
+        alt="Hannah the Australian Shepherd playing in the park" 
+        class="w-full h-full object-cover hover:scale-105 transition-transform duration-300" 
+      />
+    </div>
+    <div class="aspect-square overflow-hidden rounded-lg shadow-md hover:shadow-lg transition-all">
+      <img 
+        src="/hannah2.jpeg" 
+        alt="Hannah relaxing at home" 
+        class="w-full h-full object-cover hover:scale-105 transition-transform duration-300" 
+      />
+    </div>
+    <div class="aspect-square overflow-hidden rounded-lg shadow-md hover:shadow-lg transition-all">
+      <img 
+        src="/hannah3.jpeg" 
+        alt="Hannah on a hiking trail" 
+        class="w-full h-full object-cover hover:scale-105 transition-transform duration-300" 
+      />
+    </div>
   </div>
   
   <div class="mt-6 text-center">
