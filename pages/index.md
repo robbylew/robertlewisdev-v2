@@ -28,3 +28,6 @@ Check out some of my [projects](/projects) if you're curious about what I've bee
 </p>
 
 Contact me at <a href="mailto:contact@robertlewis.dev"><span font-mono>contact<span i-carbon-at/>robertlewis.dev</span></a>
+
+Or call me at <a href="tel:+1-323-886-9730"><span font-mono>+1(323)886-9730</span></a>
+```
