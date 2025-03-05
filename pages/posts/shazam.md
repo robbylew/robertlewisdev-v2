@@ -1,19 +1,23 @@
 ---
 title: Shazam - behind the algorithm (Work in Progress)
-date: 2025-03-05T12:46:00.000+00:00
+date: 2025-03-04
+description: A deep dive into the science and algorithms powering Shazam's song recognition.
+tag: music, shazam, algorithm, science, sound, digitalization, sampling, quantization
 type: blog
 duration: 20min
 ---
 
 # Shazam - behind the algorithm
 
-I stumbled across [this fascinating YouTube video](https://www.youtube.com/watch?v=a0CVCcb0RJM) about how Shazam works and was immediately hooked. The technology behind recognizing songs from short audio clips is so interesting I decided I gotta dive deeper. 
+I stumbled across [this fascinating YouTube video](https://www.youtube.com/watch?v=a0CVCcb0RJM) about how Shazam works and was immediately hooked. The technology behind recognizing songs from short audio clips was so interesting I had to dive deeper. You can't tell me you don't have intense urges to understand random topics in their entirety. 
 
-As I researched and took notes I thought why not share this journey? In this article, I'll break down the science and algorithms powering Shazam in a way that's hopefully both accessible and accurate.
+No? Just me? K ur loss.
+
+Anyways as I was researching I was taking a bunch of took notes and thought why not share this journey and create a blog section of my website where I can rant or teach random topics like this. Make my mark on the interwebs. Anyways enough about me im gonna be attempting to break down the science and algorithms powering Shazam in a way that's hopefully both accessible and accurate :)
 
 ## Music and Physics
 
-Starting with the basics, a **sound** is a vibration that propagates through air (or water) and can be decrypted by ears.
+Lets start with the basics, a **sound** is a vibration that propagates through air (or water) and can be decrypted by ears.
 
 > In the same manner light is also a vibration, you can't hear it because your ears cant decrypt it, but your eyes can.
 
@@ -98,7 +102,9 @@ Analog signals are continuous signals, which means if you take one second of an 
 
 This problem is called **sampling**.
 
-The standard unit of time in digital music is 44,100 units (or **samples) per second.** Where does this 44,1kHz come from?
+The **standard unit of time** in digital music is **44,100 units (or samples) per second**. 
+
+Where does this 44.1kHz come from?
 
 Humans can hear sounds from 20Hz to 20kHz, a theorem from Nyquist and Shannon states that if you want to digitize a signal from 0Hz to 20kHz you need at least 40,000 samples per second. The main idea is that a sine wave signal at a frequency F needs at least 2 points per cycle to be identified. If the frequency of your sampling is at least twice the frequency of your signal, you'll end up with at least 2 points per cycle of the original signal.
 
@@ -151,7 +157,7 @@ plt.show()
 
 The resulting image is
 
-![[Screenshot 2025-03-05 at 11.57.23 AM.png]]
+![20Hz sampled at 40Hz Image](/images/20hzat40hz.png)
 
 A sound at 20Hz is digitalized using a 40Hz sampling rate:
 - the blue curve represents the sound at 20Hz
@@ -209,7 +215,7 @@ plt.show()
 
 The output would be:
 
-![[Screenshot 2025-03-05 at 11.59.44 AM.png]]
+![20Hz sampled at 30Hz Image](/images/20hzat30hz.png)
 
 We can see a sound at 20 Hz being digitalized with a 30Hz sampling rate. The **frequency of the sampled signal is not the same as the original signal**: it's only 10Hz. If you look carefully, you can see that one cycle in the sampled signal represents two cycles in the original signal. This case is an **under sampling**.
 
@@ -315,13 +321,13 @@ plt.show()
 
 The resulting image:
 
-![[8levelquant.png]]
+![8 Quant Sample](/images/8levelquant.png)
 
 This represents an 8 level quantization. As we can see the resulting sound (in red) is called **quantization error** or **quantization noise**. **This 8 level quantization is also called a 3 bits quantization** because you only need 3 bits to implement the 8 different levels ($8 = 2^3$).
 
 Here is the same signal with a 64 levels quantization (or 6 bits):
 
-![[Screenshot 2025-03-05 at 12.29.28 PM.png]]
+![64 Quant Sample](/images/64levelquant.png)
 
 Though the resulting sound is still altered, it looks (and sounds) a lot more like the original sound.
 

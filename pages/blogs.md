@@ -1,8 +1,8 @@
 ---
 title: Blogs - Robert Lewis
-display: Blog
+display: Blogs
 description: My thoughts and technical articles on data engineering and more.
 art: plum
 ---
 
-<ListPosts type="blog" />
+<ListPosts type="blog"/>

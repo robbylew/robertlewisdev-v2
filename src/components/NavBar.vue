@@ -1,3 +1,4 @@
+components/NavBar.vue
 <script setup lang="ts">
 function toTop() {
   window.scrollTo({
@@ -40,6 +41,10 @@ const { y: scroll } = useWindowScroll()
     <nav class="nav">
       <div class="spacer" />
       <div class="right" print:op0>
+        <RouterLink to="/blogs" title="Blog">
+          <span class="lt-md:hidden">Blogs</span>
+          <div i-ri-article-line md:hidden />
+        </RouterLink>
         <RouterLink to="/projects" title="Projects">
           <span class="lt-md:hidden">Projects</span>
           <div i-ri-code-line md:hidden />
@@ -58,7 +63,8 @@ const { y: scroll } = useWindowScroll()
           title="LinkedIn"
           class="lt-md:hidden"
         >
-<div i-ri-linkedin-line />        </a>
+          <div i-ri-linkedin-line />
+        </a>
         <a
           href="https://x.com/roberthedev"
           target="_blank"
