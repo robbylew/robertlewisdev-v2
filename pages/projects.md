@@ -9,7 +9,7 @@ projects:
     - name: "Audify: Audio Fingerprinting System"
       link: "https://github.com/robbylew/audify"
       desc: "Shazam-like song recognition using audio fingerprinting, built with Golang."
-      icon: "i-simple-icons-golang"
+      icon: "i-simple-icons-go"
     - name: "Twitter Sentiment Dashboard"
       link: "/private-projects"
       desc: "Real-time Twitter sentiment analysis with BERT and Docker. (Private Repo)"
