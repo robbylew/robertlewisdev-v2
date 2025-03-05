@@ -10,6 +10,7 @@ declare module 'vue' {
     ArtDots: typeof import('./src/components/ArtDots.vue')['default']
     ArtPlum: typeof import('./src/components/ArtPlum.vue')['default']
     Footer: typeof import('./src/components/Footer.vue')['default']
+    ListPosts: typeof import('./src/components/ListPosts.vue')['default']
     ListProjects: typeof import('./src/components/ListProjects.vue')['default']
     Logo: typeof import('./src/components/Logo.vue')['default']
     LogoStroke: typeof import('./src/components/LogoStroke.vue')['default']

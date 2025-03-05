@@ -3,7 +3,6 @@ export interface Post {
   title: string
   place?: string
   date: string
-  lang?: string
   desc?: string
   platform?: string
   duration?: string
