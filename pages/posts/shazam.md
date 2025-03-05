@@ -11,9 +11,11 @@ duration: 20min
 
 I stumbled across [this fascinating YouTube video](https://www.youtube.com/watch?v=a0CVCcb0RJM) about how Shazam works and was immediately hooked. The technology behind recognizing songs from short audio clips was so interesting I had to dive deeper. You can't tell me you don't have intense urges to understand random topics in their entirety. 
 
-No? Just me? K ur loss.
+No? Just me? Whatever.
 
-Anyways as I was researching I was taking a bunch of took notes and thought why not share this journey and create a blog section of my website where I can rant or teach random topics like this. Make my mark on the interwebs. Anyways enough about me im gonna be attempting to break down the science and algorithms powering Shazam in a way that's hopefully both accessible and accurate :)
+When I was researching this topic taking a bunch of notes and all the grand and completely unique idea came to mind. Why not blog about it!! Almost as bad as starting a podcast where have my morals gone. Whatever now I get to freely rant or teach random topics to the void. Make my mark on the interwebs.
+
+Allow me to attempt and break down the science behind the algorithms powering Shazam in a way that's hopefully both understandable and accurate :)
 
 ## Music and Physics
 
