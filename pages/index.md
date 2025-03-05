@@ -2,7 +2,7 @@
 title: Robert Lewis | Data Engineer
 display: Robert Lewis
 description: Data Engineer specialized in building scalable data pipelines, robust ETL processes, and cloud data architectures to transform raw data into actionable insights.
-art: plum
+art: random
 ---
 
 ## Hey there, I'm Robert! 👋

@@ -3,7 +3,7 @@ title: Projects - Robert Lewis
 display: Projects
 description: A showcase of my Data Engineering, MLOps, and Data Science projects.
 wrapperClass: "text-center"
-art: none
+art: random
 projects:
   Data Engineering:
     - name: "Audify: Audio Fingerprinting System"

@@ -2,7 +2,7 @@
 title: Resume - Robert Lewis
 display: Resume
 description: Professional resume for Robert Lewis, Data Engineer and ML Engineer.
-art: plum
+art: random
 ---
 
 <!-- @layout-full-width -->

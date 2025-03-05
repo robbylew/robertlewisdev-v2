@@ -4,13 +4,14 @@ date: 2025-03-04
 description: A deep dive into the science and algorithms powering Shazam's song recognition.
 duration: 20min
 type: blog
+art: random
 ---
 
 I stumbled across [this fascinating YouTube video](https://www.youtube.com/watch?v=a0CVCcb0RJM) about how Shazam works and was immediately hooked. The technology behind recognizing songs from short audio clips was so interesting I had to dive deeper. You can't tell me you don't have intense urges to understand random topics in their entirety.
 
 No? Just me? Whatever.
 
-When I was researching this topic taking a bunch of notes and all the grand and completely unique idea came to mind. Why not blog about it!! Almost as bad as starting a podcast where have my morals gone. Whatever now I get to freely rant or teach random topics to the void. Make my mark on the interwebs.
+When I was researching this topic taking a bunch of notes a grand and completely unique idea came to mind. Why not blog about it! Almost as bad as starting a podcast man where have my morals gone. Whatever now I get to freely rant or teach random topics to the void. Making my mark on the interwebs.
 
 Allow me to attempt and break down the science behind the algorithms powering Shazam in a way that's hopefully both understandable and accurate :)
 
