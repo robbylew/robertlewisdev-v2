@@ -21,5 +21,6 @@ declare module 'vue' {
     Slidev: typeof import('./src/components/icons/Slidev.vue')['default']
     TextCopy: typeof import('./src/components/TextCopy.vue')['default']
     ToggleTheme: typeof import('./src/components/ToggleTheme.vue')['default']
+    WrapperPost: typeof import('./src/components/WrapperPost.vue')['default']
   }
 }

@@ -32,10 +32,4 @@ art: none
       />
     </div>
   </div>
-  
-  <div class="mt-6 text-center">
-    <a href="/" class="inline-block px-4 py-2 bg-gray-100 dark:bg-gray-800 rounded-lg hover:bg-gray-200 dark:hover:bg-gray-700 transition">
-      <span i-carbon-arrow-left class="mr-1" /> Back to Home
-    </a>
-  </div>
 </div>

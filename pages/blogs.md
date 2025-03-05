@@ -5,4 +5,4 @@ description: My thoughts and technical articles on data engineering and more.
 art: plum
 ---
 
-<ListPosts type="blog"/>
+<ListPosts only-date type="blog" />

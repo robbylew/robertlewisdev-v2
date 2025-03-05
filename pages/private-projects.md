@@ -20,10 +20,9 @@ If you're:
 - Someone I'm collaborating with
 
 Just shoot me a quick message at [contact@robertlewis.dev](mailto:contact@robertlewis.dev) with:
+
 - Who you are
 - Why you're interested
 - Which project caught your eye
 
 I'll get back to you super quickly (usually same day). For GT folks, I might need to verify with instructors before sharing certain coursework.
-
-[← Back to Projects](/projects)

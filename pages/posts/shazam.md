@@ -2,14 +2,11 @@
 title: Shazam - behind the algorithm (Work in Progress)
 date: 2025-03-04
 description: A deep dive into the science and algorithms powering Shazam's song recognition.
-tag: music, shazam, algorithm, science, sound, digitalization, sampling, quantization
-type: blog
 duration: 20min
+type: blog
 ---
 
-# Shazam - behind the algorithm
-
-I stumbled across [this fascinating YouTube video](https://www.youtube.com/watch?v=a0CVCcb0RJM) about how Shazam works and was immediately hooked. The technology behind recognizing songs from short audio clips was so interesting I had to dive deeper. You can't tell me you don't have intense urges to understand random topics in their entirety. 
+I stumbled across [this fascinating YouTube video](https://www.youtube.com/watch?v=a0CVCcb0RJM) about how Shazam works and was immediately hooked. The technology behind recognizing songs from short audio clips was so interesting I had to dive deeper. You can't tell me you don't have intense urges to understand random topics in their entirety.
 
 No? Just me? Whatever.
 
