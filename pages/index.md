@@ -1,11 +1,9 @@
 ---
 title: Robert Lewis | Data Engineer
-display: Robert Lewis
+display: Hey there, I'm Robert! 👋
 description: Data Engineer specialized in building scalable data pipelines, robust ETL processes, and cloud data architectures to transform raw data into actionable insights.
 art: random
 ---
-
-## Hey there, I'm Robert! 👋
 
 A big data nerd currently working my way through Georgia Tech's online CS Master's program. My journey started with a bachelors in Statistics & Data Science from UCLA, and I've been hooked on all things data ever since. [View my resume](/resume) for the full story.
 

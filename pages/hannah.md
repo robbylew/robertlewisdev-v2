@@ -1,13 +1,12 @@
 ---
 title: Hannah the Australian Shepherd
 description: My beautiful Australian Shepherd, Hannah.
-display: Hannah - The Australian Shepherd
+display: Hannah Banana 🍌
 art: random
 ---
 
 <!-- @layout-full-width -->
 <div class="max-w-3xl mx-auto px-4 mt-6 mb-8">
-  <h1 class="text-2xl font-bold text-center mb-6">Meet Hannah</h1>
   
   <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
     <div class="aspect-square overflow-hidden rounded-lg shadow-md hover:shadow-lg transition-all">
