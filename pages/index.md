@@ -15,7 +15,7 @@ When I'm not knee-deep in code or drowning in grad school assignments, I'm proba
 
 Check out some of my [projects](/projects) if you're curious about what I've been up to lately. Fair warning though—the cool stuff from my GT coursework is behind academic guidelines, but I'm happy to chat about them!
 
-I've also started a [blog](/blogs) where I share thoughts on data engineering, tech, and whatever else catches my interest. It's pretty new and I'm still experimenting with it, but feel free to take a look!
+I've also started a [blog](/posts) where I share thoughts on data engineering, tech, and whatever else catches my interest. It's pretty new and I'm still experimenting with it, but feel free to take a look!
 
 ---
 Find me on

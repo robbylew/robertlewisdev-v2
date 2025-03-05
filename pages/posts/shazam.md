@@ -27,7 +27,7 @@ A **pure tone** is a **tone** with a **sinusodial waveform** (fancy way of sayin
 - **Frequency**: Number of cycles per second. Its unit is Hertz (Hz), 100Hz = 100 cycles per second
 - **Amplitude** (related to loudness of sound): The size of each cycle
 
-These characteristics are decrypted by the ear to form a sound. Humans can hear pure tones from **20 Hz to 20,000 Hz**!!! What a range unfortunately that range does decrease as we age :( 
+These characteristics are decrypted by the ear to form a sound. Humans can hear pure tones from **20 Hz to 20,000 Hz**!!! What a range unfortunately that range does decrease as we age :(
 
 > By comparison the light we see is composed of sinewaves from 4 x 10^14 Hz to 7.9 x 10^14 Hz
 
@@ -83,6 +83,7 @@ Many percussion instruments ( like cymbals or drums) create inharmonic sounds.
 A music song is played by multiple instruments and singers. All those instruments produce a combination of sinewaves at multiple frequencies and the overall is an even bigger combination of sinewaves.
 
 It is possible to see music with a spectrogram. Most of the time, a spectogram is a 3 dimensional graph where:
+
 - the X-axis represents time
 - the Y-axis represents the frequency of the pure tone
 - the Z-axis or the third dimension is described by a color and it represents the amplitude of a frequency at a certain time
@@ -101,7 +102,7 @@ Analog signals are continuous signals, which means if you take one second of an 
 
 This problem is called **sampling**.
 
-The **standard unit of time** in digital music is **44,100 units (or samples) per second**. 
+The **standard unit of time** in digital music is **44,100 units (or samples) per second**.
 
 Where does this 44.1kHz come from?
 
@@ -159,6 +160,7 @@ The resulting image is
 ![20Hz sampled at 40Hz Image](/images/20hzat40hz.png)
 
 A sound at 20Hz is digitalized using a 40Hz sampling rate:
+
 - the blue curve represents the sound at 20Hz
 - the red crosses represent the sampled sound, which means I marked the blue curve with a red cross every 1/40 second
 - the green line is an interpolation of the sample sound
