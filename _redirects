@@ -5,7 +5,6 @@
 /ig https://instagram.com/robbylew 301
 
 /posts https://www.robertlewis.dev/blogs 301
-/posts/* https://robertlewis.dev/blogs/:splat 301
 
 /admin/*  /404.html  401!
 /sitemap   /sitemap.xml   200

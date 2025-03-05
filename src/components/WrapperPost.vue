@@ -139,7 +139,7 @@ const ArtComponent = computed(() => {
     <br>
     <span font-mono op50>> </span>
     <RouterLink
-      :to="route.path.split('/').slice(0, -1).join('/') || '/'"
+      :to="route.path.startsWith('/blog/') ? '/blogs' : (route.path.split('/').slice(0, -1).join('/') || '/')"
       class="font-mono op50 hover:op75"
       v-text="'cd ..'"
     />
