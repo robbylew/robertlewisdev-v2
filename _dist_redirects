@@ -6,4 +6,5 @@
 /ig https://instagram.com/robbylew 301
 /linkedin https://linkedin.com/robbylewis
 /posts https://robertlewis.dev/blogs 301
+/posts/* https://robertlewis.dev/blogs/:splat 301
 
