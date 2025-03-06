@@ -42,12 +42,16 @@ const { y: scroll } = useWindowScroll()
       <div class="spacer" />
       <div class="right" print:op0>
         <RouterLink to="/blogs" title="Blogs">
-          <span class="lt-md:hidden">Blogs</span>
-          <div i-ri-article-line md:hidden />
+          <span class="lt-md:hidden">Blog</span>
+          <div i-ri-book-line md:hidden />
+        </RouterLink>
+        <RouterLink to="/resume" title="Resume">
+          <span class=""lt-md:hidden>Resume</span>
+          <div i-ri-file-user-line md:hidden />
         </RouterLink>
         <RouterLink to="/projects" title="Projects">
           <span class="lt-md:hidden">Projects</span>
-          <div i-ri-code-line md:hidden />
+          <div i-ri-folder-5-line md:hidden />
         </RouterLink>
         <a
           href="https://github.com/robbylew"
