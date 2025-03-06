@@ -1,11 +1,13 @@
 ---
-title: Shazam - behind the algorithm (Work in Progress)
+title: Shazam - behind the algorithm
 date: 2025-03-04
 description: A deep dive into the science and algorithms powering Shazam's song recognition.
 duration: 20min
 type: blog
 art: random
 ---
+
+[[toc]]
 
 I stumbled across [this fascinating YouTube video](https://www.youtube.com/watch?v=a0CVCcb0RJM) about how Shazam works and was immediately hooked. The technology behind recognizing songs from short audio clips was so interesting I had to dive deeper. You can't tell me you don't have intense urges to understand random topics in their entirety.
 
@@ -99,7 +101,7 @@ Unless you're a vinyl disk lover, when you listen to music you're using a digita
 
 Analog signals are continuous signals, which means if you take one second of an analog signal, you can divide this second into (put the greatest number you can think of and I hope it's a big one) parts that last a fraction of a second. In the digital world, you can't afford to store an infinite amount of information. You need to have a minimum unit, for example 1 millisecond. During this unit of time the sound cannot change so this unit needs to eb short enough so that the digital song sounds like the analog one and big enough to limit the space needed for storing the music.
 
-> For example, think about your favorite music. Now think about it with the sound changing only every 2 seconds, it sounds like nothing. Tehcnically speaking the sound is **aliased**. In order to be sure that your song sounds great you can choose a very small unit like a nano ($10^{-9}$) second. This tiem your music sounds great but you don't have enough disk space to store it, welp that's too bad.
+> For example, think about your favorite music. Now think about it with the sound changing only every 2 seconds, it sounds like nothing. Tehcnically speaking the sound is **aliased**. In order to be sure that your song sounds great you can choose a very small unit like a nano (10^-9) second. This tiem your music sounds great but you don't have enough disk space to store it, welp that's too bad.
 
 This problem is called **sampling**.
 
@@ -325,7 +327,7 @@ The resulting image:
 
 ![8 Quant Sample](/images/8levelquant.png)
 
-This represents an 8 level quantization. As we can see the resulting sound (in red) is called **quantization error** or **quantization noise**. **This 8 level quantization is also called a 3 bits quantization** because you only need 3 bits to implement the 8 different levels ($8 = 2^3$).
+This represents an 8 level quantization. As we can see the resulting sound (in red) is called **quantization error** or **quantization noise**. **This 8 level quantization is also called a 3 bits quantization** because you only need 3 bits to implement the 8 different levels (8 = 2^3).
 
 Here is the same signal with a 64 levels quantization (or 6 bits):
 
@@ -335,5 +337,5 @@ Though the resulting sound is still altered, it looks (and sounds) a lot more li
 
 Thankfully we dont have extra sensitive ears. **The standard quantization is coded on 16 bits**, which means 65,536 levels. With a 16 bitz quantization, the quantization noise is low enough for human ears.
 
-> In studio, the quantization used by professionals is 24 bits, which means there are $2^{24}$ (16 million) possible variations of loudness between the lowest point of the track and the highest.
+> In studio, the quantization used by professionals is 24 bits, which means there are 2^24(16 million) possible variations of loudness between the lowest point of the track and the highest.
 > I made some approximations in my examples concerning the number of quantization levels.
