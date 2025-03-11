@@ -36,7 +36,6 @@ function slug(name: string) {
           :key="idx"
           class="item relative flex items-center"
           :href="item.link"
-          :target="item.link.startsWith('http') ? '_blank' : undefined"
           :title="item.name"
         >
           <div v-if="item.icon" class="pt-2 pr-5">
